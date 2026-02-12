@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Huidong (동동삼)  
+# 👋 Hi, I’m Huidong (신희동)  
 Engineering student passionate about systems, software, and learning by building.  
 (Undergraduate Student of Kyung Hee University | Currently in Cheongju, South Korea)
 

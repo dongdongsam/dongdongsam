@@ -15,7 +15,8 @@ I build things that help me *understand* how systems work—whether it’s code,
 - **Tools for Dev:** Git, VS/VSC, Docker, Jenkins
 - **Tools for ML:** ComfyUI, Pytorch, Tensorflow, ~~5060ti 16gb~~
 - **Concepts:** Eletronics and Networks, Graphics, Haptics, IoT
-- **Favorite LLM:** ChatGPT CODEX, Gemeni
+- **Favorite LLM:** ChatGPT CODEX, Gemeni and etc agents
+- **ETC** : Certificate of Industrial Engineer (Information/Electricity(on 2nd Test), S. K. HRD)
 
 ## 🧠 Philosophy
 
@@ -32,3 +33,4 @@ I prefer building something imperfect over talking about perfection.
 
 - GitHub: @dongdongsam  
 - Blog: https://blog.dongdongcompany.com
+- Talkable Language : Korean(Native), English(Normal), Japanese(Normal)

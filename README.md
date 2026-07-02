@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Huidong (신희동)  
 Engineering student passionate about systems, software, and learning by building.  
-(Undergraduate Student of Kyung Hee University | Currently in Cheongju, South Korea)
+(Undergraduate Student of Kyung Hee University | Currently in Seowon District office, Cheongju, South Korea)
 
 ## 🚀 Highlights
 

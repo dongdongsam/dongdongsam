@@ -16,7 +16,7 @@ I build things that help me *understand* how systems work—whether it’s code,
 - **Tools for ML:** ComfyUI, Pytorch, Tensorflow, ~~5060ti 16gb~~
 - **Concepts:** Eletronics and Networks, Graphics, Haptics, IoT
 - **Favorite LLM:** ChatGPT CODEX, Gemeni and etc agents
-- **ETC** : Certificate of Industrial Engineer (Information/Electricity(on 2nd Test), S. K. HRD)
+- **ETC** : Certificate of Industrial Engineer (Information/Electricity, S. K. HRD)
 
 ## 🧠 Philosophy
 
